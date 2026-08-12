@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://raises-suggestion-cassette-bit.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://writing-backing-easy-maximize.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-12 06:28:41 UTC
+Created   : 2026-08-12 11:12:56 UTC
 =======================================================
