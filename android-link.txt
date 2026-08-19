@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://speaks-ton-prefix-cuisine.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://retreat-turbo-rings-seniors.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-18 20:38:46 UTC
+Created   : 2026-08-19 01:33:15 UTC
 =======================================================
