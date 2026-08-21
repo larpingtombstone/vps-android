@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://presence-side-ccd-surface.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://piano-suspended-respond-stephen.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-21 15:47:38 UTC
+Created   : 2026-08-21 20:39:41 UTC
 =======================================================
