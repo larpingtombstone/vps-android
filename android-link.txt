@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sold-frontpage-broken-briefs.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://fellowship-snowboard-mind-parameters.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-02 14:22:47 UTC
+Created   : 2026-09-02 18:41:12 UTC
 =======================================================
