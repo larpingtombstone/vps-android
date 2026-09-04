@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://complimentary-clause-orchestra-propose.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://kitchen-abu-shares-archives.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-04 03:42:29 UTC
+Created   : 2026-09-04 09:34:20 UTC
 =======================================================
