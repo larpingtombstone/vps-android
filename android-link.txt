@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://minneapolis-stand-arrivals-yellow.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://bosnia-military-frame-commissions.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-17 19:04:57 UTC
+Created   : 2026-09-17 22:55:16 UTC
 =======================================================
