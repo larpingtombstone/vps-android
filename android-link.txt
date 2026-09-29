@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://communication-revenues-typical-welfare.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://turned-locator-fish-cameras.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-29 11:22:35 UTC
+Created   : 2026-09-29 20:02:39 UTC
 =======================================================
