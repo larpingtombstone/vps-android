@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://commercial-breakfast-beverages-alternative.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://drinks-liability-stay-apr.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-14 04:13:30 UTC
+Created   : 2026-10-14 10:10:15 UTC
 =======================================================
