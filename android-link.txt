@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sweet-density-departmental-path.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://digit-performances-underwear-shot.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-07 16:20:14 UTC
+Created   : 2026-11-07 23:40:34 UTC
 =======================================================
