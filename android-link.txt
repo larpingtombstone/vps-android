@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://president-processor-roses-develop.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://adam-luther-humidity-adopt.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-19 19:05:47 UTC
+Created   : 2026-11-20 01:52:45 UTC
 =======================================================
